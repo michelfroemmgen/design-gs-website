@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "AF34D10E-4521-42FA-82D5-45BD8AE7D910",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3CDC33B-1732-46FF-ACB2-3472B017EEDE",
+  "do_objectID": "241BB540-8FE8-4D5F-840E-A834B9CBAB9D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "424BDF68-1F49-4511-B6B3-76DDF6E077A0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,9 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "C4EA5A2F-1C05-4F2B-AFFF-5484CEBA8A2B",
     "height": 5000,
     "width": 1440,
-    "x": 1792,
+    "x": 3332,
     "y": -1958
   },
   "hasBackgroundColor": false,
@@ -33,6 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "4AC30C41-1682-4996-8099-8A68F05C80F3",
     "guides": [
     ]
   },
@@ -44,26 +48,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "F7BD0AF3-6C5F-483E-A158-A6C011AECD12"
+      "id": "2FA79A71-B250-46EB-AB1D-03034A321E9A"
     },
     {
       "class": "rectangle",
-      "id": "EB665B04-EF8E-449F-A85E-7949E190D344"
+      "id": "B2575AC0-78EB-4A87-BB11-82B43CB60500"
     },
     {
       "class": "rectangle",
-      "id": "3B6876BA-E257-4AFA-88EB-21C4ED5E6363"
+      "id": "8AEC3DED-82F6-4E36-9BAA-FA28E4C44230"
     },
     {
       "class": "text",
-      "id": "5D7D56B8-7A8E-4BBB-B85D-8F6ED2100BE5"
+      "id": "1410AC46-4143-42EE-818F-AB8C84D02927"
     }
   ],
-  "name": "subpage",
+  "name": "about",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -79,6 +83,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "9BD22605-0C12-4572-B878-32A70B714253",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -87,6 +92,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "90DAC2A7-0DC6-4BD8-BF48-BCF75CBCC8E5",
     "guides": [
     ]
   }
